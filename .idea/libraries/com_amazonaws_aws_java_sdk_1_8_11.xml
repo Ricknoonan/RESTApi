@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="com.amazonaws:aws-java-sdk:1.8.11" type="repository">
+    <properties maven-id="com.amazonaws:aws-java-sdk:1.8.11" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-1.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/aws-java-sdk-core-1.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.10.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
